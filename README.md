@@ -8,4 +8,4 @@ AdditipeType
 Additive
 ```
 
-![diagram](https://user-images.githubusercontent.com/73149523/205683297-a96272a7-a90f-4ac7-b297-408c60aeb058.png)
+![diagram](https://user-images.githubusercontent.com/73149523/205683297-a96272a7-a90f-4ac7-b297-408c60aeb058.png) width=50% height = 50%
